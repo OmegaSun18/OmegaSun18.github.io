@@ -4,3 +4,14 @@ My passion lies at the intersection of machine learning and computer systems. I 
 
 I drive myself forward to explore more avenues, enhance my knowledge, and ultimately give back to the world, through my research.
 
+
+[View My Projects](projects.md)
+
+[See My Experience](experience.md)
+
+[My Education](education.md)
+
+[More About Me](about.md)
+
+[Contact Me](contact.md)
+
