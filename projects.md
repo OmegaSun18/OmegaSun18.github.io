@@ -1,5 +1,4 @@
 # Projects
-
 ## Bird Scouts
 
 I developed this application as part of a group project for the `Applied Data Science and Artificial Intelligence Course`. Given the broad topic of wildlife, we refined our project topic to develop an application that is geared towards bird watchers and wildlife enthusiasts.
